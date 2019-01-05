@@ -14,10 +14,10 @@
 **能在这款产品中发现的就是一个人的行为。希望在浏览公墓的时候，你能够回忆起这串字符的背后是一个活生生的人，而不是一个“消费者”或者是大数据中的一个点。**
 ### 输出效果
 **起始界面**
-！ []（https://github.com/Akashic00/DDDUR2018F_516202910016/blob/master/intro.jpg?raw=ture）
+！[]（https://github.com/Akashic00/DDDUR2018F_516202910016/blob/master/intro.jpg?raw=ture）
 **数据选择界面**
-！ []（https://github.com/Akashic00/DDDUR2018F_516202910016/blob/master/fs1.jpg?raw=true）
-！ []（https://github.com/Akashic00/DDDUR2018F_516202910016/blob/master/fs2.jpg?raw=true）
+！[]（https://github.com/Akashic00/DDDUR2018F_516202910016/blob/master/fs1.jpg?raw=true）
+！[]（https://github.com/Akashic00/DDDUR2018F_516202910016/blob/master/fs2.jpg?raw=true）
 **数据呈现界面**
-！ []（https://github.com/Akashic00/DDDUR2018F_516202910016/blob/master/ss1.jpg?raw=true）
-！ []（https://github.com/Akashic00/DDDUR2018F_516202910016/blob/master/ss2.jpg?raw=true）
+！[]（https://github.com/Akashic00/DDDUR2018F_516202910016/blob/master/ss1.jpg?raw=true）
+！[]（https://github.com/Akashic00/DDDUR2018F_516202910016/blob/master/ss2.jpg?raw=true）
